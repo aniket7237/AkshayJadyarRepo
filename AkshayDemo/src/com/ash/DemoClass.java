@@ -4,8 +4,8 @@ public class DemoClass {
 
 	public static void main(String[] args) {
 	
-		int x = 5;
-		int y = 10;
+		int x = 10;
+		int y = 15;
 		
 		x= x+y;
 		y=x-y;
